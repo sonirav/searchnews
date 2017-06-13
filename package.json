@@ -9,7 +9,7 @@
   },
 
   {
-  "name": "my package",
+  "name": "searchnews",
   "engines": {
     "node": "v7.7.3" // intentionally so big version number
   },
