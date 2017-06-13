@@ -1,4 +1,3 @@
-{
   "name": "searchnews",
   "version": "1.0.0",
   "description": "",
@@ -7,7 +6,7 @@
     "node": "7.7.3",
      "npm": "4.1.2"
   },
-},
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
