@@ -7,6 +7,7 @@
     "node": "7.7.3",
      "npm": "4.1.2"
   },
+},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
@@ -16,11 +17,9 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.12.0",
-    "geocoder": "^0.2.2",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "request": "^2.72.0",
-    "weather-js": "^1.0.2"
   },
 
   "devDependencies": {
@@ -31,4 +30,3 @@
     "json-loader": "^0.5.4",
     "webpack": "^1.13.1"
   },
-}
