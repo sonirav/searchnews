@@ -1,8 +1,10 @@
   "name": "searchnews",
   "version": "1.0.0",
+  "author": "Ravinder Soni",
+  "license": "ISC",
   "description": "",
   "main": "public/index.html",
-    "engines": {
+"engines": {
     "node": "7.7.3",
      "npm": "4.1.2"
   },
@@ -12,8 +14,7 @@
     "build": "webpack"
   },
 
-  "author": "Ravinder Soni",
-  "license": "ISC",
+
   "dependencies": {
     "axios": "^0.12.0",
     "react": "^0.14.3",
