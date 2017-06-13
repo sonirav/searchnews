@@ -8,7 +8,7 @@
     "build": "webpack"
 
   },
-{  "engines":"node v7.7.3" },
+
 
   "author": "Ravinder Soni",
   "license": "ISC",
@@ -29,7 +29,7 @@
     "webpack": "^1.13.1"
   },
 
-
+ "engine":"node 7.7.3" 
 
   
 }
