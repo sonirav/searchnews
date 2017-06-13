@@ -7,6 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
   },
+
+  {
+  "name": "my package",
+  "engines": {
+    "node": "7.7.3" // intentionally so big version number
+  },
   "author": "Ravinder Soni",
   "license": "ISC",
   "dependencies": {
