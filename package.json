@@ -6,13 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
-  },
 
-  {
-  "name": "searchnews",
-  "engines": {
-    "node": ">=v7.7.3" // intentionally so big version number
   },
+{  "engines":"node v7.7.3" },
+
   "author": "Ravinder Soni",
   "license": "ISC",
   "dependencies": {
@@ -30,5 +27,9 @@
     "babel-preset-react": "^6.3.13",
     "json-loader": "^0.5.4",
     "webpack": "^1.13.1"
-  }
+  },
+
+
+
+  
 }
