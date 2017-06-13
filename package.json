@@ -5,7 +5,7 @@
   "main": "public/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack -w"
+    "build": "webpack"
   },
   "author": "Ravinder Soni",
   "license": "ISC",
