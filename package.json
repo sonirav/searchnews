@@ -11,7 +11,7 @@
   {
   "name": "searchnews",
   "engines": {
-    "node": "v7.7.3" // intentionally so big version number
+    "node": ">=v7.7.3" // intentionally so big version number
   },
   "author": "Ravinder Soni",
   "license": "ISC",
