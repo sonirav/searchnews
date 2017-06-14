@@ -13,9 +13,9 @@
     "author": "Ravinder Soni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sonirav/searchnews",
+    "url": "https://github.com/sonirav/searchnews#readme",
   },
-  "homepage": "https://github.com/sonirav/searchnews#readme",
+  "homepage": "https://github.com/sonirav/searchnews",
   "dependencies": {
     "axios": "^0.12.0",
     "react": "^0.14.3",
