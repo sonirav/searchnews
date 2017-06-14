@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/sonirav/searchnews",
   },
-  "homepage": "https://github.com/sonirav/searchnews",
+  "homepage": "https://github.com/sonirav/searchnews#readme",
   "dependencies": {
     "axios": "^0.12.0",
     "react": "^0.14.3",
